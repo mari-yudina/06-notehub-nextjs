@@ -15,6 +15,4 @@ export interface CreateNoteRequest {
   tag: NoteTag;
 }
 
-export interface ErrorProps {
-  error: Error;
-}
+
